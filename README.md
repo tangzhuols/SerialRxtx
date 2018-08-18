@@ -1,0 +1,2 @@
+# SerialRxtx
+通过串口转USB的方式把扫码枪对接到windows上面，通过扫描方式请求API
